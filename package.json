@@ -25,7 +25,9 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@sendgrid/mail": "^8.1.4",
 		"@stripe/stripe-js": "^4.9.0",
+		"resend": "^4.0.0",
 		"stripe": "^17.2.1"
 	}
 }
